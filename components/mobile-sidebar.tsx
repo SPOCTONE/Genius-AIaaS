@@ -1,4 +1,4 @@
-"use-client";
+"use client";
 
 import { Menu } from "lucide-react";
 
@@ -17,7 +17,7 @@ const MobileSidebar = () => {
   if (!isMounted) {
     return null;
   }
-  
+
   return (
     <Sheet>
         
