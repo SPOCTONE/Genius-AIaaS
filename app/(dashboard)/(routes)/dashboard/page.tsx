@@ -49,10 +49,10 @@ const DashboardPage = () => {
     <div>
       <div className="mb-8 space-y-4">
         <h2 className="text-2xl md:text-4xl font-bold text-center">
-          Explore the power of AI
+          Experience the power of AI
         </h2>
         <p className="text-muted-foreground font-light text-sm md:text-lg text-center">
-          Interact with bleeding edge AI - Experience the power of AI in your hands.
+          Interact with and explore bleeding edge AI tools
         </p>
         <div className="px-4 md:px-20 lg-px-32 space-y-4">
           {tools.map((tool, index) => (
