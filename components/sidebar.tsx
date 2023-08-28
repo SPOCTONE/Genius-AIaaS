@@ -74,7 +74,7 @@ const Sidebar = () => {
                     Genius
                 </h1>
             </Link>
-            <div className='spac-y-1'>
+            <div className='space-y-1'>
                 {routes.map((route) => (
                     <Link
                         href={route.href}
